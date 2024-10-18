@@ -1,2 +1,2 @@
 # Distributed Product Lifecycle Management
-
+Currently PLM systems, such as Teamcenter by Siemans and ARAS, consist of a centralized database backend and client applicatons to access the data. The system require alot of knowledge to setup and manage. and there overall cost can be prohibative to smaller companies. I'm proposing a git style system. This style system requires some individual that manage a master copy of the repository. Other stake holders can clone for repo for referance or to create branch to propose changes. This does exclude a central data store like github but doesn't require one either.   
