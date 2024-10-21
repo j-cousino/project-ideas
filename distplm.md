@@ -3,4 +3,4 @@ Currently PLM systems, such as Teamcenter by Siemans and ARAS, consist of a cent
 
 ## Initial thoughts
 
-Git repositoties contain many files. Just like the required information for a mechanical part may be stored in many different types of files. 
+Git repositoties contain many files. But individuale files don't require there own trackable history. In a system designed for mechanical parts a repo may contain many end items whose individual versions need to be tracked. A branch would referance particular versions of these items.
